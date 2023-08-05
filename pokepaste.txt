@@ -1,0 +1,1739 @@
+01_Cheren
+Stoutland @ Focus Sash
+-Return
+-Crunch
+-Ice Fang
+-Reversal
+
+Porygon-Z @ Chople Berry
+-Shadow Ball
+-Psychic
+-Signal Beam
+-Thunder
+
+Cinccino @ King's Rock
+-Tail Slap
+-Rock Blast
+-Bullet Seed
+-Aqua Tail
+
+Lickilicky @ Expert Belt
+-Hammer Arm
+-Power Whip
+-Thunder
+-Ice Punch
+
+Castform @ Lum Berry
+-Weather Ball
+-Ice Beam
+-Rain Dance
+-Thunder
+
+Bouffalant @ Leftovers
+-Head Charge
+-Megahorn
+-Wild Charge
+-Revenge
+
+02_Roxie
+Scolipede @ Choice Scarf
+-Poison Jab
+-Megahorn
+-Earthquake
+-Rock Slide
+
+Toxicroak @ Focus Sash
+-Poison Jab
+-Swords Dance
+-Drain Punch
+-Protect
+
+Garbodor @ Expert Belt
+-Psychic
+-Thunderbolt
+-Focus Blast
+-Protect
+
+Crobat @ Psychic Gem
+-Cross Poison
+-Zen Headbutt
+-Tailwind
+-Brave Bird
+
+Drapion @ Scope Lens
+-Cross Poison
+-Night Slash
+-Ice Fang
+-Protect
+
+Amoonguss @ Black Sludge
+-Foul Play
+-Spore
+-Giga Drain
+-Protect
+
+03_Burgh
+Leavanny @ Focus Sash
+-X-scissor
+-Leaf Blade
+-Aerial Ace
+-Swords Dance
+
+Vespiquen @ Leftovers
+-Attack Order
+-Defend Order
+-Roost
+-Toxic
+
+Crustle @ Salac Berry
+-X-scissor
+-Rock Blast
+-Earthquake
+-Shell Smash
+
+Heracross @ Choice Scarf
+-Megahorn
+-Close Combat
+-Shadow Claw
+-Stone Edge
+
+Accelgor @ BrightPowder
+-Bug Buzz
+-Focus Blast
+-Giga Drain
+-Double Team
+
+Durant @ Wide Lens
+-X-scissor
+-Iron Head
+-Stone Edge
+-Guillotine
+
+04_Elesa
+Zebstrika @ Life Orb
+-Wild Charge
+-Overheat
+-Return
+-Quick Attack
+
+Ampharos @ Shuca Berry
+-Discharge
+-Signal Beam
+-Power Gem
+-Focus Blast
+
+Luxray @ Expert Belt
+-Wild Charge
+-Fire Fang
+-Ice Fang
+-Quick Attack
+
+Emolga @ Flying Gem
+-U-turn
+-Wild Charge
+-Acrobatics
+-Charm
+
+Eelektross @ Choice Band
+-Thunderpunch
+-Fire Punch
+-Dragon Claw
+-Brick Break
+
+Stunfisk @ Sitrus Berry
+-Discharge
+-Earth Power
+-Scald
+-Foul Play
+
+05_Clay
+Excadrill @ Focus Sash
+-Drill Run
+-Rock Slide
+-Submission
+-Swords Dance
+
+Flygon @ Liechi Berry
+-Outrage
+-Earth Power
+-Fire Blast
+-Stone Edge
+
+Krookodile @ Choice Band
+-Earthquake
+-Fire Fang
+-Stone Edge
+-Aqua Tail
+
+Seismitoad @ Life Orb
+-Earth Power
+-Hydro Pump
+-Focus Blast
+-Grass Knot
+
+Mamoswine @ Ice Gem
+-Earthquake
+-Ice Shard
+-Stone Edge
+-Fissure
+
+Golurk @ Leftovers
+-Substitute
+-Shadow Punch
+-Earthquake
+-Focus Punch
+
+06_Skyla
+Swanna @ Focus Sash
+-Hurricane
+-Scald
+-Ice Beam
+-Tailwind
+
+Jumpluff @ Flying Gem
+-Sleep Powder
+-Acrobatics
+-Bullet Seed
+-U-turn
+
+Drifblim @ Expert Belt
+-Shadow Ball
+-Thunderbolt
+-Psychic
+-Icy Wind
+
+Mandibuzz @ Salac Berry
+-Dark Pulse
+-Air Slash
+-Nasty Plot
+-Roost
+
+Archeops @ Sitrus Berry
+-Acrobatics
+-Stone Edge
+-Earthquake
+-Dragon Claw
+
+Braviary @ White Herb
+-Brave Bird
+-Superpower
+-Rock Slide
+-U-turn
+
+07_Drayden
+Haxorus @ Focus Sash
+-Outrage
+-Earthquake
+-Brick Break
+-Dragon Dance
+
+Druddigon @ Rocky Helmet
+-Dragon Tail
+-Fire Fang
+-Glare
+-Rest
+
+Hydreigon @ Choice Specs
+-Dragon Pulse
+-Dark Pulse
+-Fire Blast
+-Focus Blast
+
+Flygon @ Wide Lens
+-Earth Power
+-Draco Meteor
+-Fire Blast
+-U-turn
+
+Altaria @ Yache Berry
+-Draco Meteor
+-Roost
+-Perish Song
+-Cotton Guard
+
+Salamence @ White Herb
+-Draco Meteor
+-Hydro Pump
+-Fire Blast
+-Tailwind
+
+08_Marlon
+Jellicent @ Expert Belt
+-Hydro Pump
+-Energy Ball
+-Shadow Ball
+-Psychic
+
+Carracosta @ Lum Berry
+-Waterfall
+-Rock Slide
+-Aqua Jet
+-Shell Smash
+
+Starmie @ Focus Sash
+-Scald
+-Light Screen
+-Reflect
+-Thunderbolt
+
+Quagsire @ Rindo Berry
+-Stone Edge
+-Earthquake
+-Waterfall
+-Counter
+
+Cloyster @ King's Rock
+-Ice Shard
+-Rock Blast
+-Icicle Spear
+-Shell Smash
+
+Wailord @ Choice Scarf
+-Water Spout
+-Fissure
+-Blizzard
+-Bounce
+
+09_Chili
+Simisear @ Fire Gem
+-Overheat
+-Low Kick
+-Acrobatics
+-Crunch
+
+Camerupt @ Shuca Berry
+-Overheat
+-Stone Edge
+-Earthquake
+-Explosion
+
+Heatmor @ Focus Sash
+-Fire Blast
+-Sucker Punch
+-Focus Blast
+-Sunny Day
+
+Darmanitan @ Life Orb
+-Flare Blitz
+-Hammer Arm
+-Stone Edge
+-U-turn
+
+Arcanine @ Power Herb
+-Overheat
+-Dragon Pulse
+-Solarbeam
+-Extremespeed
+
+Emboar @ Expert Belt
+-Flare Blitz
+-Head Smash
+-Hammer Arm
+-Wild Charge
+
+10_Cress
+Simipour @ Water Gem
+-Hydro Pump
+-Low Kick
+-Acrobatics
+-Crunch
+
+Crawdaunt @ Choice Scarf
+-Crunch
+-Waterfall
+-Brick Break
+-Guillotine
+
+Samurott @ Leftovers
+-Razor Shell
+-Megahorn
+-Aqua Jet
+-Revenge
+
+Azumarill @ Choice Band
+-Aqua Jet
+-Aqua Tail
+-Superpower
+-Giga Impact
+
+Slowking @ Expert Belt
+-Psychic
+-Blizzard
+-Fire Blast
+-Nasty Plot
+
+Seismitoad @ Rindo Berry
+-Hydro Pump
+-Poison Jab
+-Earth Power
+-Rain Dance
+
+11_Cilan
+Simisage @ Grass Gem
+-Seed Bomb
+-Low Kick
+-Acrobatics
+-Crunch
+
+Ferrothorn @ Choice Band
+-Power Whip
+-Gyro Ball
+-Bulldoze
+-Explosion
+
+Serperior @ Leftovers
+-Leech Seed
+-Protect
+-Aerial Ace
+-Leaf Blade
+
+Jumpluff @ Focus Sash
+-Leech Seed
+-Cotton Guard
+-Giga Drain
+-Sleep Powder
+
+Whimsicott @ Mental Herb
+-Giga Drain
+-Substitute
+-Hurricane
+-Leech Seed
+
+Lilligant @ Miracle Seed
+-Petal Dance
+-Quiver Dance
+-Sleep Powder
+-Dream Eater
+
+12_Lenora
+Watchog @ Focus Sash
+-Super Fang
+-Flail
+-Confuse Ray
+-Hypnosis
+
+Cinccino @ Life Orb
+-Swift
+-Focus Blast
+-Grass Knot
+-Thunderbolt
+
+Braviary @ Power Herb
+-Sky Attack
+-Superpower
+-U-turn
+-Tailwind
+
+Sawsbuck @ Choice Scarf
+-Return
+-Horn Leech
+-Megahorn
+-Wild Charge
+
+Kangaskhan @ Chople Berry
+-Fake Out
+-Ice Punch
+-Hammer Arm
+-Sucker Punch
+
+Lickilicky @ Expert Belt
+-Flamethrower
+-Ice Beam
+-Surf
+-Thunderbolt
+
+13_Brycen
+Cryogonal @ Wide Lens
+-Blizzard
+-Flash Cannon
+-Sheer Cold
+-Ice Shard
+
+Beartic @ BrightPowder
+-Icicle Crash
+-Focus Punch
+-Substitute
+-Swords Dance
+
+Vanilluxe @ Leftovers
+-Blizzard
+-Protect
+-Weather Ball
+-Hail
+
+Weavile @ Focus Sash
+-Night Slash
+-Ice Shard
+-Fake Out
+-Brick Break
+
+Dewgong @ Life Orb
+-Aqua Jet
+-Frost Breath
+-Drill Run
+-Fake Out
+
+Walrein @ Expert Belt
+-Earthquake
+-Aqua Tail
+-Super Fang
+-Avalanche
+
+14_Bianca
+Musharna @ Leftovers
+-Calm Mind
+-Stored Power
+-Moonlight
+-Shadow Ball
+
+Samurott @ Zoom Lens
+-Blizzard
+-Aqua Jet
+-Hydro Pump
+-Megahorn
+
+Emboar @ Life Orb
+-Scald
+-Superpower
+-Overheat
+-Grass Knot
+
+Serperior @ Light Clay
+-Light Screen
+-Glare
+-Leaf Storm
+-Reflect
+
+Stoutland @ Chople Berry
+-Return
+-Wild Charge
+-Crunch
+-Ice Fang
+
+Haxorus @ Focus Sash
+-Outrage
+-Earthquake
+-Aqua Tail
+-Guillotine
+
+15_Brock
+Onix @ Eviolite
+-Stone Edge
+-Earthquake
+-Iron Head
+-Sandstorm
+
+Golem @ Lum Berry
+-Stone Edge
+-Earthquake
+-Rock Polish
+-Sucker Punch
+
+Kabutops @ Focus Sash
+-Waterfall
+-Rock Slide
+-X-scissor
+-Swords Dance
+
+Tyranitar @ Chople Berry
+-Stone Edge
+-Payback
+-Thunderpunch
+-Ice Punch
+
+Aerodactyl @ Choice Scarf
+-Rock Slide
+-Earthquake
+-Fire Fang
+-Ice Fang
+
+Rhyperior @ Expert Belt
+-Earthquake
+-Stone Edge
+-Megahorn
+-Avalanche
+
+16_Misty
+Starmie @ Choice Scarf
+-Grass Knot
+-Psychic
+-Thunderbolt
+-Ice Beam
+
+Lanturn @ Sitrus Berry
+-Thunderbolt
+-Scald
+-Ice Beam
+-Toxic
+
+Jellicent @ Leftovers
+-Recover
+-Surf
+-Shadow Ball
+-Will-o-wisp
+
+Lapras @ Zoom Lens
+-Hydro Pump
+-Blizzard
+-Ice Shard
+-Sheer Cold
+
+Quagsire @ Focus Sash
+-Yawn
+-Waterfall
+-Earthquake
+-Rain Dance
+
+Blastoise @ Salac Berry
+-Hydro Pump
+-Outrage
+-Avalanche
+-Iron Defense
+
+17_Lt.Surge
+Raichu @ Life Orb
+-Volt Tackle
+-Fake Out
+-Focus Punch
+-Thunder Wave
+
+Electrode @ Focus Sash
+-Electro Ball
+-Signal Beam
+-Thunder Wave
+-Double Team
+
+Magnezone @ Air Balloon
+-Discharge
+-Flash Cannon
+-Signal Beam
+-Magnet Rise
+
+Electivire @ Expert Belt
+-Wild Charge
+-Earthquake
+-Cross Chop
+-Ice Punch
+
+Jolteon @ Shuca Berry
+-Quick Attack
+-Iron Tail
+-Double Team
+-Volt Switch
+
+Lanturn @ Wide Lens
+-Thunder
+-Hydro Pump
+-Blizzard
+-Signal Beam
+
+18_Erika
+Vileplume @ Black Sludge
+-Drain Punch
+-Swords Dance
+-Synthesis
+-Sleep Powder
+
+Venusaur @ Expert Belt
+-Leaf Storm
+-Power Whip
+-Earthquake
+-Outrage
+
+Cradily @ Leftovers
+-Stone Edge
+-Recover
+-Seed Bomb
+-Curse
+
+Exeggutor @ Tanga Berry
+-Psychic
+-Psyshock
+-Leaf Storm
+-Ancientpower
+
+Tangrowth @ Power Herb
+-Solarbeam
+-Ancientpower
+-Focus Blast
+-Synthesis
+
+Abomasnow @ Focus Sash
+-Blizzard
+-Leech Seed
+-Protect
+-Sheer Cold
+
+19_Janine
+Venomoth @ Wide Lens
+-Quiver Dance
+-Sleep Powder
+-Bug Buzz
+-Psychic
+
+Weezing @ Rocky Helmet
+-Thunderbolt
+-Will-o-wisp
+-Sludge Bomb
+-Flamethrower
+
+Nidoqueen @ Life Orb
+-Sludge Wave
+-Ice Beam
+-Earth Power
+-Thunderbolt
+
+Crobat @ Black Sludge
+-Brave Bird
+-Hypnosis
+-Toxic
+-Protect
+
+Roserade @ Leftovers
+-Leaf Storm
+-Sleep Powder
+-Substitute
+-Leech Seed
+
+Tentacruel @ Chesto Berry
+-Sludge Bomb
+-Scald
+-Ice Beam
+-Rest
+
+20_Sabrina
+Alakazam @ Kasib Berry
+-Psychic
+-Shadow Ball
+-Focus Blast
+-Charge Beam
+
+Metagross @ Expert Belt
+-Psychic
+-Shadow Ball
+-Signal Beam
+-Grass Knot
+
+Exeggutor @ Tanga Berry
+-Psychic
+-Energy Ball
+-Sleep Powder
+-Dream Eater
+
+Slowking @ Choice Specs
+-Scald
+-Psychic
+-Shadow Ball
+-Focus Blast
+
+Espeon @ Leftovers
+-Psyshock
+-Signal Beam
+-Psychic
+-Calm Mind
+
+Sigilyph @ Life Orb
+-Psychic
+-Air Slash
+-Ice Beam
+-Light Screen
+
+21_Blaine
+Arcanine @ Focus Sash
+-Overheat
+-Close Combat
+-Extremespeed
+-Bulldoze
+
+Ninetales @ Charti Berry
+-Fire Blast
+-Energy Ball
+-Psyshock
+-Will-o-wisp
+
+Charizard @ Life Orb
+-Flamethrower
+-Air Slash
+-Focus Blast
+-Dragon Pulse
+
+Magmortar @ Choice Scarf
+-Fire Blast
+-Psychic
+-Thunderbolt
+-Rock Slide
+
+Flareon @ Passho Berry
+-Superpower
+-Quick Attack
+-Overheat
+-Toxic
+
+Rotom @ Flame Orb
+-Trick
+-Overheat
+-Thunderbolt
+-Pain Split
+
+22_Giovanni
+Rhyperior @ Life Orb
+-Earthquake
+-Rock Blast
+-Ice Punch
+-Hammer Arm
+
+Hippowdon @ Quick Claw
+-Earthquake
+-Crunch
+-Ice Fang
+-Stone Edge
+
+Garchomp @ Choice Scarf
+-Outrage
+-Earthquake
+-Rock Slide
+-Brick Break
+
+Krookodile @ Expert Belt
+-Earthquake
+-Superpower
+-Fire Fang
+-Grass Knot
+
+Nidoking @ Choice Specs
+-Earth Power
+-Ice Beam
+-Flamethrower
+-Thunderbolt
+
+Gliscor @ Flying Gem
+-Acrobatics
+-Earthquake
+-Fire Fang
+-Tailwind
+
+23_Falkner
+Pidgeot @ Life Orb
+-Return
+-Swagger
+-Double Team
+-Air Slash
+
+Crobat @ Red Card
+-Super Fang
+-Taunt
+-Acrobatics
+-Confuse Ray
+
+Aerodactyl @ Focus Sash
+-Earthquake
+-Ice Fang
+-Rock Slide
+-Protect
+
+Honchkrow @ Choice Scarf
+-Night Slash
+-Brave Bird
+-Heat Wave
+-Icy Wind
+
+Xatu @ Leftovers
+-Calm Mind
+-Psyshock
+-Stored Power
+-Roost
+
+Swellow @ Flame Orb
+-Facade
+-Protect
+-Endeavor
+-Aerial Ace
+
+24_Bugsy
+Scizor @ Sitrus Berry
+-Bullet Punch
+-U-turn
+-Swords Dance
+-Acrobatics
+
+Shuckle @ Rocky Helmet
+-Power Split
+-Stone Edge
+-Earthquake
+-Toxic
+
+Heracross @ Choice Band
+-Megahorn
+-Stone Edge
+-Close Combat
+-Shadow Claw
+
+Pinsir @ Life Orb
+-X-scissor
+-Bulldoze
+-Guillotine
+-Protect
+
+Armaldo @ Quick Claw
+-Earthquake
+-Stone Edge
+-X-scissor
+-Swords Dance
+
+Yanmega @ Focus Sash
+-Protect
+-Bug Buzz
+-Air Slash
+-Giga Drain
+
+25_whitney
+Miltank @ Lum Berry
+-Return
+-Zen Headbutt
+-Brick Break
+-Milk Drink
+
+Blissey @ Leftovers
+-Softboiled
+-Flamethrower
+-Grass Knot
+-Toxic
+
+Tauros @ Life Orb
+-Return
+-Earthquake
+-Rock Slide
+-Protect
+
+Ambipom @ Focus Sash
+-Fake Out
+-Double Hit
+-Low Sweep
+-Ice Punch
+
+Ursaring @ Toxic Orb
+-Facade
+-Swords Dance
+-Crunch
+-Rock Slide
+
+Lopunny @ Chople Berry
+-Entrainment
+-Return
+-Low Kick
+-Encore
+
+26_Morty
+Gengar @ Wide Lens
+-Shadow Ball
+-Focus Blast
+-Giga Drain
+-Thunderbolt
+
+Mismagius @ Sitrus Berry
+-Perish Song
+-Mean Look
+-Will-o-wisp
+-Confuse Ray
+
+Banette @ Ghost Gem
+-Shadow Claw
+-Sucker Punch
+-Destiny Bond
+-Gunk Shot
+
+Dusknoir @ Leftovers
+-Shadow Sneak
+-Will-o-wisp
+-Protect
+-Fire Punch
+
+Chandelure @ Life Orb
+-Overheat
+-Shadow Ball
+-Energy Ball
+-Psychic
+
+Froslass @ Focus Sash
+-Ice Beam
+-Shadow Ball
+-Thunder Wave
+-Destiny Bond
+
+27_Chuck
+Poliwrath @ Sitrus Berry
+-Waterfall
+-Belly Drum
+-Rock Slide
+-Hypnosis
+
+Machamp @ Choice Band
+-Dynamicpunch
+-Stone Edge
+-Ice Punch
+-Earthquake
+
+Hitmontop @ Wide Lens
+-Mach Punch
+-Feint
+-Triple Kick
+-Bullet Punch
+
+Hitmonchan @ Leftovers
+-Drain Punch
+-Thunderpunch
+-Ice Punch
+-Double Team
+
+Hitmonlee @ Life Orb
+-Hi Jump Kick
+-Fake Out
+-Bulldoze
+-Stone Edge
+
+Conkeldurr @ Fighting Gem
+-Drain Punch
+-Mach Punch
+-Rock Slide
+-Earthquake
+
+28_Jasmine
+Steelix @ Rocky Helmet
+-Gyro Ball
+-Earthquake
+-Stealth Rock
+-Curse
+
+Magnezone @ Quick Claw
+-Thunderbolt
+-Flash Cannon
+-Mirror Coat
+-Magnet Rise
+
+Forretress @ Iron Ball
+-Earthquake
+-Gyro Ball
+-Toxic
+-Explosion
+
+Skarmory @ Leftovers
+-Curse
+-Roost
+-Aerial Ace
+-Stealth Rock
+
+Metagross @ Air Balloon
+-Meteor Mash
+-Bullet Punch
+-Earthquake
+-Explosion
+
+Lucario @ Life Orb
+-Extremespeed
+-Crunch
+-Aura Sphere
+-Stone Edge
+
+29_Pryce
+Mamoswine @ Focus Sash
+-Earthquake
+-Ice Shard
+-Icicle Spear
+-Endeavor
+
+Jynx @ Psychic Gem
+-Blizzard
+-Psyshock
+-Focus Blast
+-Lovely Kiss
+
+Dewgong @ Lum Berry
+-Dive
+-Sheer Cold
+-Sleep Talk
+-Rest
+
+Cloyster @ King's Rock
+-Icicle Spear
+-Shell Smash
+-Explosion
+-Rock Blast
+
+Lapras @ Chesto Berry
+-Ice Beam
+-Surf
+-Thunderbolt
+-Rest
+
+Weavile @ Ice Gem
+-Ice Punch
+-Night Slash
+-Low Kick
+-Fake Out
+
+30_Claire
+Dragonite @ Yache Berry
+-Draco Meteor
+-Earthquake
+-Extremespeed
+-Outrage
+
+Kingdra @ Chesto Berry
+-Dragon Dance
+-Outrage
+-Waterfall
+-Rest
+
+Altaria @ Leftovers
+-Cotton Guard
+-Toxic
+-Double Team
+-Fire Blast
+
+Salamence @ Dragon Gem
+-Draco Meteor
+-Outrage
+-Rock Slide
+-Earthquake
+
+Druddigon @ Rocky Helmet
+-Revenge
+-Sucker Punch
+-Glare
+-Dragon Claw
+
+Garchomp @ Focus Sash
+-Earthquake
+-Dual Chop
+-Fire Fang
+-Swords Dance
+
+31_Roxanne
+Probopass @ Air Balloon
+-Power Gem
+-Earth Power
+-Pain Split
+-Thunderbolt
+
+Armaldo @ Lum Berry
+-Rock Slide
+-Rock Polish
+-Earthquake
+-X-scissor
+
+Cradily @ Leftovers
+-Toxic
+-Giga Drain
+-Amnesia
+-Rock Slide
+
+Aggron @ Focus Sash
+-Head Smash
+-Iron Head
+-Metal Burst
+-Avalanche
+
+Carracosta @ Water Gem
+-Waterfall
+-Shell Smash
+-Rock Slide
+-Aqua Jet
+
+Golem @ Ground Gem
+-Focus Punch
+-Protect
+-Earthquake
+-Fire Punch
+
+32_Brawly
+Hariyama @ Chesto Berry
+-Bulk Up
+-Rest
+-Revenge
+-Stone Edge
+
+Scrafty @ Leftovers
+-Bulk Up
+-Drain Punch
+-Dragon Tail
+-Amnesia
+
+Breloom @ Focus Sash
+-Spore
+-Focus Punch
+-Seed Bomb
+-Stone Edge
+
+Machamp @ Choice Band
+-Dynamicpunch
+-Stone Edge
+-Fire Punch
+-Earthquake
+
+Mienshao @ Life Orb
+-Hi Jump Kick
+-Fake Out
+-Aerial Ace
+-Drain Punch
+
+Heracross @ Choice Scarf
+-Megahorn
+-Close Combat
+-Stone Edge
+-Aerial Ace
+
+33_Wattson
+Manectric @ Life Orb
+-Thunderbolt
+-Flamethrower
+-Thunder Wave
+-Double Team
+
+Magnezone @ Leftovers
+-Thunderbolt
+-Toxic
+-Protect
+-Flash Cannon
+
+Electrode @ Air Balloon
+-Thunder
+-Signal Beam
+-Swagger
+-Thunder Wave
+
+Rotom @ Wide Lens
+-Thunder
+-Hydro Pump
+-Hex
+-Will-o-wisp
+
+Ampharos @ Expert Belt
+-Fire Punch
+-Thunderpunch
+-Bulldoze
+-Brick Break
+
+Raichu @ Focus Sash
+-Thunder
+-Focus Blast
+-Grass Knot
+-Swagger
+
+34_Flannery
+Torkoal @ Leftovers
+-Overheat
+-Earthquake
+-Stone Edge
+-Yawn
+
+Camerupt @ Passho Berry
+-Earth Power
+-Fissure
+-Will-o-wisp
+-Flamethrower
+
+Chandelure @ Focus Sash
+-Flamethrower
+-Flame Charge
+-Shadow Ball
+-Calm Mind
+
+Blaziken @ Air Balloon
+-Hi Jump Kick
+-Earthquake
+-Flame Charge
+-Stone Edge
+
+Houndoom @ Life Orb
+-Overheat
+-Sucker Punch
+-Flame Charge
+-Will-o-wisp
+
+Magmortar @ Shuca Berry
+-Fire Blast
+-Thunderbolt
+-Flame Charge
+-Psychic
+
+35_Norman
+Slaking @ Eject Button
+-Giga Impact
+-Night Slash
+-Earthquake
+-Hammer Arm
+
+Ambipom @ Normal Gem
+-Return
+-Acrobatics
+-Fake Out
+-Fire Punch
+
+Bouffalant @ Life Orb
+-Head Charge
+-Stone Edge
+-Megahorn
+-Revenge
+
+Staraptor @ Choice Band
+-Brave Bird
+-Close Combat
+-Quick Attack
+-Final Gambit
+
+Exploud @ Expert Belt
+-Hyper Voice
+-Fire Blast
+-Blizzard
+-Focus Blast
+
+Sawsbuck @ Chesto Berry
+-Horn Leech
+-Return
+-Swords Dance
+-Rest
+
+36_Winona
+Altaria @ Power Herb
+-Sky Attack
+-Cotton Guard
+-Dragon Dance
+-Earthquake
+
+Sigilyph @ Life Orb
+-Psychic
+-Air Slash
+-Ancientpower
+-Thunder Wave
+
+Gyarados @ Leftovers
+-Dragon Dance
+-Substitute
+-Waterfall
+-Ice Fang
+
+Skarmory @ Rocky Helmet
+-Whirlwind
+-Spikes
+-Steel Wing
+-Aerial Ace
+
+Tropius @ Yache Berry
+-Sunny Day
+-Air Slash
+-Solarbeam
+-Attract
+
+Honchkrow @ Dark Gem
+-Drill Peck
+-Tailwind
+-Sucker Punch
+-Icy Wind
+
+37_Tate
+Solrock @ Passho Berry
+-Rock Slide
+-Zen Headbutt
+-Trick Room
+-Earthquake
+
+Xatu @ Focus Sash
+-Psychic
+-Light Screen
+-Shadow Ball
+-Trick Room
+
+Bronzong @ Lum Berry
+-Gyro Ball
+-Earthquake
+-Zen Headbutt
+-Trick Room
+
+Reuniclus @ Life Orb
+-Psychic
+-Shadow Ball
+-Focus Blast
+-Trick Room
+
+Gallade @ Scope Lens
+-Psycho Cut
+-Night Slash
+-Close Combat
+-Ice Punch
+
+Claydol @ Kasib Berry
+-Trick Room
+-Explosion
+-Psychic
+-Light Screen
+
+38_Liza
+Lunatone @ Expert Belt
+-Grass Knot
+-Cosmic Power
+-Trick Room
+-Signal Beam
+
+Xatu @ Focus Sash
+-Pain Split
+-Zen Headbutt
+-U-turn
+-Trick Room
+
+Bronzong @ Rocky Helmet
+-Iron Head
+-Hypnosis
+-Earthquake
+-Trick Room
+
+Gothitelle @ Leftovers
+-Psychic
+-Shadow Ball
+-Calm Mind
+-Trick Room
+
+Gardevoir @ Lum Berry
+-Disable
+-Psychic
+-Will-o-wisp
+-Thunderbolt
+
+Claydol @ Sitrus Berry
+-Trick Room
+-Earth Power
+-Ice Beam
+-Psyshock
+
+39_Juan
+Kingdra @ Haban Berry
+-Hydro Pump
+-Dragon Pulse
+-Ice Beam
+-Rain Dance
+
+Walrein @ Leftovers
+-Surf
+-Toxic
+-Super Fang
+-Sheer Cold
+
+Crawdaunt @ Life Orb
+-Crabhammer
+-Night Slash
+-Rain Dance
+-Guillotine
+
+Whiscash @ Chesto Berry
+-Earthquake
+-Waterfall
+-Spark
+-Rest
+
+Relicanth @ Damp Rock
+-Rain Dance
+-Rock Slide
+-Waterfall
+-Earthquake
+
+Politoed @ Wide Lens
+-Hypnosis
+-Scald
+-Focus Blast
+-Ice Beam
+
+40_Roark
+Rampardos @ Focus Sash
+-Stone Edge
+-Superpower
+-Earthquake
+-Avalanche
+
+Probopass @ Air Balloon
+-Stealth Rock
+-Earth Power
+-Discharge
+-Pain Split
+
+Archeops @ Life Orb
+-Stone Edge
+-Earthquake
+-Focus Blast
+-Quick Attack
+
+Crustle @ Power Herb
+-Rock Slide
+-X-scissor
+-Solarbeam
+-Shell Smash
+
+Golem @ Choice Band
+-Stone Edge
+-Earthquake
+-Sucker Punch
+-Explosion
+
+Relicanth @ Liechi Berry
+-Head Smash
+-Waterfall
+-Rock Polish
+-Yawn
+
+41_Gardenia
+Roserade @ Choice Scarf
+-Petal Dance
+-Shadow Ball
+-Weather Ball
+-Sludge Bomb
+
+Tropius @ Heat Rock
+-Solarbeam
+-Air Slash
+-Synthesis
+-Sunny Day
+
+Breloom @ Focus Sash
+-Spore
+-Drain Punch
+-Mach Punch
+-Stone Edge
+
+Tangrowth @ Salac Berry
+-Power Whip
+-Focus Blast
+-Sludge Bomb
+-Earthquake
+
+Leafeon @ Yache Berry
+-Leaf Blade
+-X-scissor
+-Quick Attack
+-Swords Dance
+
+Torterra @ Choice Band
+-Wood Hammer
+-Earthquake
+-Outrage
+-Stone Edge
+
+42_Fantina
+Mismagius @ Salac Berry
+-Shadow Ball
+-Psychic
+-Calm Mind
+-Pain Split
+
+Drifblim @ Flying Gem
+-Acrobatics
+-Will-o-wisp
+-Explosion
+-Sucker Punch
+
+Spiritomb @ Sitrus Berry
+-Shadow Ball
+-Psychic
+-Sucker Punch
+-Nasty Plot
+
+Dusknoir @ Apicot Berry
+-Shadow Sneak
+-Curse
+-Pain Split
+-Will-o-wisp
+
+Jellicent @ Ghost Gem
+-Shadow Ball
+-Brine
+-Recover
+-Water Spout
+
+Gengar @ Focus Sash
+-Shadow Ball
+-Thunderbolt
+-Nightmare
+-Hypnosis
+
+43_Maylene
+Lucario @ Focus Sash
+-Ice Punch
+-Close Combat
+-Extremespeed
+-Swords Dance
+
+Infernape @ Fire Gem
+-Close Combat
+-Flare Blitz
+-Mach Punch
+-Bulk Up
+
+Toxicroak @ Payapa Berry
+-Drain Punch
+-Sucker Punch
+-Substitute
+-Bulk Up
+
+Gallade @ Coba Berry
+-Close Combat
+-Psycho Cut
+-Leaf Blade
+-Bulk Up
+
+Medicham @ Choice Scarf
+-Hi Jump Kick
+-Zen Headbutt
+-Thunderpunch
+-Ice Punch
+
+Machamp @ Scope Lens
+-Cross Chop
+-Stone Edge
+-Ice Punch
+-Bullet Punch
+
+44_Wake
+Floatzel @ Life Orb
+-Aqua Jet
+-Ice Punch
+-Focus Blast
+-Bulk Up
+
+Empoleon @ Petaya Berry
+-Hydro Pump
+-Blizzard
+-Grass Knot
+-Featherdance
+
+Ludicolo @ Leftovers
+-Hydro Pump
+-Giga Drain
+-Focus Blast
+-Rain Dance
+
+Gastrodon @ Rindo Berry
+-Surf
+-Earth Power
+-Blizzard
+-Counter
+
+Poliwrath @ Salac Berry
+-Waterfall
+-Focus Punch
+-Ice Punch
+-Hypnosis
+
+Gyarados @ Wacan Berry
+-Aqua Tail
+-Earthquake
+-Outrage
+-Dragon Dance
+
+45_Byron
+Bastiodon @ Air Balloon
+-Metal Burst
+-Fire Blast
+-Stealth Rock
+-Iron Defense
+
+Excadrill @ Life Orb
+-X-scissor
+-Earthquake
+-Rock Slide
+-Submission
+
+Bronzong @ Iron Ball
+-Gyro Ball
+-Zen Headbutt
+-Earthquake
+-Trick Room
+
+Magnezone @ Shuca Berry
+-Explosion
+-Mirror Coat
+-Protect
+-Reflect
+
+Aggron @ Choice Band
+-Head Smash
+-Iron Head
+-Fire Punch
+-Dragon Rush
+
+Forretress @ Light Clay
+-Gyro Ball
+-Stealth Rock
+-Earthquake
+-Reflect
+
+46_Candice
+Froslass @ Petaya Berry
+-Blizzard
+-Shadow Ball
+-Psychic
+-Hail
+
+Abomasnow @ Occa Berry
+-Blizzard
+-Wood Hammer
+-Earthquake
+-Ingrain
+
+Weavile @ Chople Berry
+-Ice Punch
+-Night Slash
+-Brick Break
+-Torment
+
+Glaceon @ Life Orb
+-Blizzard
+-Shadow Ball
+-Signal Beam
+-Ice Shard
+
+Mamoswine @ Salac Berry
+-Icicle Crash
+-Bulldoze
+-Superpower
+-Rock Tomb
+
+Glalie @ Rock Gem
+-Blizzard
+-Crunch
+-Rollout
+-Hail
+
+47_Volkner
+Electivire @ Salac Berry
+-Wild Charge
+-Cross Chop
+-Ice Punch
+-Bulldoze
+
+Luxray @ Liechi Berry
+-Wild Charge
+-Crunch
+-Superpower
+-Thunder Wave
+
+Raichu @ Grass Gem
+-Thunderbolt
+-Focus Blast
+-Grass Knot
+-Charge
+
+Rotom @ King's Rock
+-Discharge
+-Air Slash
+-Pain Split
+-Substitute
+
+Jolteon @ Air Balloon
+-Thunderbolt
+-Shadow Ball
+-Charm
+-Wish
+
+Electrode @ Electric Gem
+-Thunder
+-Signal Beam
+-Taunt
+-Torment
+
