@@ -19,15 +19,10 @@ for i in range(47):
     pokepaste += f'{trainers[i]}\n'
     for j in range(6):
         j = 6*i + j
-        pokepaste += f'{pokemon[j]}' + ' @ ' +f'{items[j]}\n'
+        pokepaste += f'{pokemon[j]}' + ' @ '
+        pokepaste += f'{items[j]}\n' + 'EVs: 1 HP'
+        pokepaste += f'\n'
         for k in range(4):
             k = 4*j + k
             pokepaste += '-' + f'{moves[k]}\n'
         pokepaste += '\n'
-
-# Save the Pokepaste content to a new file
-pokepaste_file = 'pokepaste.txt'
-with open(pokepaste_file, 'w', encoding='utf-8') as file:
-    file.write(pokepaste)
-
-print("Pokepaste created and saved to 'pokepaste.txt'.")
